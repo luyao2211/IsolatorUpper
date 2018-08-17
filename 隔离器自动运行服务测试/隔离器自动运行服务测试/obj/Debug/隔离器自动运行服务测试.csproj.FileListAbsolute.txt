@@ -1,0 +1,24 @@
+c:\users\administrator\documents\visual studio 2013\Projects\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.pdb
+I:\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe.config
+I:\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.exe
+I:\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.pdb
+I:\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.csprojResolveAssemblyReference.cache
+I:\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe
+I:\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.pdb
+F:\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe.config
+F:\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.exe
+F:\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.pdb
+F:\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe
+F:\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.pdb
+F:\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe.config
+C:\Users\Administrator\Desktop\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.exe
+C:\Users\Administrator\Desktop\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.pdb
+C:\Users\Administrator\Desktop\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.exe
+C:\Users\Administrator\Desktop\隔离器自动运行服务测试\隔离器自动运行服务测试\bin\Debug\隔离器自动运行服务测试.pdb
+C:\Users\Administrator\Desktop\隔离器自动运行服务测试\隔离器自动运行服务测试\obj\Debug\隔离器自动运行服务测试.csprojResolveAssemblyReference.cache
